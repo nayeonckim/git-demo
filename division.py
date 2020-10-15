@@ -8,4 +8,4 @@ def num(n):
 
 n = num(input("Enter numerator: "))
 d = num(input("Enter denominator: "))
-print(n / d)
+print(f"Result: {n / d}")
